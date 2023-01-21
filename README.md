@@ -1,2 +1,2 @@
 # sample
-This is my readme file
+This is my trial version
